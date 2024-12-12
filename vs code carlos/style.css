@@ -1,0 +1,35 @@
+#titulo
+{background-color: yellowgreen;
+font-size: 50px;
+color: black;
+text-align: center;
+font-family: fantasy; }
+
+
+#donaciones
+{ background-color: burlywood;
+font-size: 30px;
+color: black;
+text-align: center;
+font-family: fantasy;}
+
+#compras {
+    background-color: aquamarine;
+    font-size: 30px;
+    color: black;
+text-align: center;
+font-family: fantasy;
+}
+#adopxiones {
+    background-color: violet
+    ;
+    font-size: 30px;
+    color: black;
+text-align: center;
+font-family: fantasy;
+}
+
+#contenedor
+{ display: grid;
+grid-template-columns: repeat(3,700px);
+}
